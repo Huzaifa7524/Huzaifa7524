@@ -1,7 +1,7 @@
 Hi 👋 My name is Huzaifa Tahir
 ==============================
 
-Data Scientist
+Full Stack Dev
 --------------
 
 * 🌍  I'm based in pakistan
