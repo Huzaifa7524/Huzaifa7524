@@ -1,12 +1,10 @@
-Hi 👋 My name is Huzaifa Tahir
+Hi there, I'm Huzaifa Tahir! 👋 
 ==============================
 
-Full Stack Dev
+Python Developer
 --------------
-
-* 🌍  I'm based in pakistan
+I am a highly motivated and results-driven professional with a strong passion for building intelligent applications using cutting-edge Python and Machine Learning techniques. Throughout my journey as a developer, I have had the opportunity to delve into diverse domains, honing my skills and expertise across a wide spectrum of technologies.
 * ✉️  You can contact me at [huzaifatahir7524@gmail.com](mailto:huzaifatahir7524@gmail.com)
-* 🧠  I'm learning Data Science
 
 ### Skills
 
@@ -18,7 +16,9 @@ Full Stack Dev
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 </p>
+
 
 
 ### Socials
