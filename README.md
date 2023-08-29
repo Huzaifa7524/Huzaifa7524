@@ -1,4 +1,4 @@
-Hi there, I'm Huzaifa Tahir! 👋 
+<h1 align="center">Hi there, I'm Huzaifa Tahir! 👋 </h1>
 ==============================
 
 Machine Learning Engineer 
