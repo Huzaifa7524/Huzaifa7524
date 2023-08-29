@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Huzaifa Tahir! 👋 </h1>
-==============================
 
-Machine Learning Engineer 
+<h3 align="center">Machine Learning Engineer </h3>
+
 --------------
 I am a highly motivated and results-driven professional with a strong passion for building intelligent applications using cutting-edge Python and Machine Learning techniques. Throughout my journey as a developer, I have had the opportunity to delve into diverse domains, honing my skills and expertise across a wide spectrum of technologies.
 * ✉️  You can contact me at [huzaifatahir7524@gmail.com](mailto:huzaifatahir7524@gmail.com)
